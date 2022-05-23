@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "justfunstuf:op_diamond"
+    },
+    "2": {
+      "item": "justfunstuf:op_diamond"
+    },
+    "3": {
+      "item": "justfunstuf:op_diamond"
+    },
+    "4": {
+      "item": "justfunstuf:op_diamond"
+    },
+    "5": {
+      "item": "justfunstuf:op_diamond"
+    },
+    "6": {
+      "item": "justfunstuf:op_diamond"
+    },
+    "7": {
+      "item": "justfunstuf:op_diamond"
+    },
+    "8": {
+      "item": "justfunstuf:op_diamond"
+    }
+  },
+  "result": {
+    "item": "justfunstuf:oparmor_chestplate",
+    "count": 1
+  }
+}

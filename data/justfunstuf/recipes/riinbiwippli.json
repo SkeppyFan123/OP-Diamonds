@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "justfunstuf:op_diamond"
+    },
+    "1": {
+      "item": "minecraft:apple"
+    }
+  },
+  "result": {
+    "item": "justfunstuf:rainbowapples",
+    "count": 64
+  }
+}

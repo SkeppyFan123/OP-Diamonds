@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "justfunstuf:op_diamond_block"
+    }
+  ],
+  "result": {
+    "item": "justfunstuf:op_diamond",
+    "count": 64
+  }
+}
