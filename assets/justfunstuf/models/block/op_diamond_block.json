@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "justfunstuf:blocks/op_diamond_block",
+    "particle": "justfunstuf:blocks/op_diamond_block"
+  }
+}
